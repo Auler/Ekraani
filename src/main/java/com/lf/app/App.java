@@ -38,7 +38,7 @@ public class App extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         // 录屏+音频
-        AllRecorder recorder = new AllRecorder();
+        Recorder recorder = new Recorder();
         // 图像窗口
         ImageView imageVideo = new ImageView();
         imageVideo.setFitWidth(800);
