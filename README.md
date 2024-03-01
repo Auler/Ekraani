@@ -18,3 +18,8 @@ mvn package
 
 ### 界面
 ![测试](./docs/ui.png)
+
+### 更新
+暂无法解决麦克风+扩音器同时录制问题
+</br>1、wins自带的立体声混音（打开）可进行录制扩音器
+</br>2、下载Screen.Capturer.Recorder可进行录制扩音器（包括耳机）
